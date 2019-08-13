@@ -1,4 +1,4 @@
-# Ejercicio 4
+# Ejercicio 2
 
 1. Edita el archivo index.html, creando hipervínculos hacia las páginas correspondientes de la sección "Ejemplos de sistemas operativos" (Microsoft Windows al archivo windows.html, etc.)
 2. En cada página de los sistemas operativos (SO), convierte la imagen del SO a hipervínculo para que al dar clic sobre ella, envíe al artículo correspondiente en Wikipedia (ejemplo http://es.wikipedia.org/wiki/Microsoft_Windows). El hipervínculo debe abrirse en otra ventana del navegador y ofrecer información en pantalla con el texto "Ver en Wikipedia".
